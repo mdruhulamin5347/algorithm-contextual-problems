@@ -22,8 +22,10 @@
 // Output the minimum area.
 
 
+
 #include <bits/stdc++.h>
 using namespace std;
+
 int n,m,cnt;
 char grid[1005][1005];
 bool vis[1005][1005];
