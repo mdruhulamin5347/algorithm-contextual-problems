@@ -21,7 +21,6 @@
 // Output the minimum cost for each query.
 
 
-
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -63,5 +62,6 @@ int main(){
         if(dis[x][y] == LLONG_MAX) cout << -1 << endl;
         else cout << dis[x][y] << endl;
     }
+    
     return 0;
 }
