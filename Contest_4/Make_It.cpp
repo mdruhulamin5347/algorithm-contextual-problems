@@ -1,25 +1,16 @@
 
-
 // problem number 3
-
 // Problem Statement
-
 // You will be given a positive integer . You will start from  and do some steps (possibly zero).
-
 // In each step you can choose one of the following:
-
 // Add  with the current value
 // Multiply by  with the current value
 // Can you tell if you can reach  by using any number of steps you want.
-
 // Input Format
-
 // First line will contain , the number of test cases.
 // In each test case you will be given .
 // Constraints
-
 // Output Format
-
 // Print "YES" if you can reach , "NO" otherwise.
 
 
